@@ -1,7 +1,7 @@
 {
 	"version"           : "1.0.0",
 	"name"              : "EbayFulfillmentAdvanced",
-	"description"       : "Ebay Fulfillment complete offer for an easy setup.",
+	"description"       : "Ebay and ebay Fulfillment setup.",
 	"marketplaceName"   : {
 		"de":"ebay & ebay Fulfillment Einrichtung",
 		"en":"ebay & ebay Fulfillment Setup"
@@ -9,8 +9,8 @@
 	"license"           : "AGPL-3.0",
 	"price"             : 399.00,
 	"shortDescription"  : {
-		"de":"Nutze unser plentymarkets Einrichtungsangebot für eBay Fulfillment und Verkaufe auf über 40 weiteren Marktplätzen!",
-		"en":"Choose our system setup offer below and sell on more than 40 online marketplaces."
+		"de":"Dein plentymarkets läuft schon längst und jetzt möchtest du auch eBay und eBay Fulfillment für dich entdecken? Mit diesem Angebot richten wir dir beides ein.",
+		"en":"Your plentymarkets is already running and now you want to discover eBay and eBay fulfillment for yourself? With this offer, we are setting up both for you."
 	},
 	"categories"        : ["3889"],
 	"keywords"          : ["ebay fulfillment, ebay, plentymarkets, service, setup"],

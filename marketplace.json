@@ -1,7 +1,7 @@
 {
     "marketplaceName"   : {
-        "de":"ebay & ebay Fulfillment Einrichtung",
-        "en":"ebay & ebay Fulfillment Setup"
+        "de":"eBay & eBay Fulfillment Einrichtung",
+        "en":"eBay & eBay Fulfillment Setup"
     },
     "license"           : "AGPL-3.0",
     "price"             : 399.00,
